@@ -1,0 +1,1619 @@
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:09:20 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:09:25 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:09:30 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:09:35 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:09:40 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:09:45 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:09:50 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:09:55 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:10:00 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:10:05 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:10:10 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:10:15 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:10:20 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:10:25 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:10:30 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:10:35 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:10:40 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:10:45 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:10:50 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:10:55 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:11:00 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:11:05 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+http://localhost:5105/api/KomutApi/CreateCommand?isUpdate=true sunucusuna sonuclar gonderilmeye calisiliyor.
+15.06.2025 04:11:10 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:11:15 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:11:20 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:11:25 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:11:30 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:11:36 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:11:41 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:11:46 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:11:51 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:11:56 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:12:01 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:12:06 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:12:11 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:12:16 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:12:21 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:12:26 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:12:31 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:12:36 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:12:41 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:12:46 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:12:51 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:12:56 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:13:01 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:13:06 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:13:11 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:13:16 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:13:21 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:13:26 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:13:31 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:13:36 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:13:41 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:13:46 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"1","CompName":"KADIR","Command":"aa","Response":"HATA: \u0027aa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 03:26:56","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+15.06.2025 04:13:51 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:13:56 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:14:01 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:14:06 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:14:11 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:14:16 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:14:21 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:14:26 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:14:34 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:14:39 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:14:44 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:14:49 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:14:54 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"2","CompName":"KADIR","Command":"explorer.exe","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 04:14:52","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"2","CompName":"KADIR","Command":"explorer.exe","Response":"","User":"Bilinmiyor","DateSent":"15.06.2025 04:14:52","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+Komut basariyla guncellendi.
+15.06.2025 04:14:59 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:15:04 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:15:09 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:15:14 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:15:19 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:15:24 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:15:29 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:15:34 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:15:39 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:15:44 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:15:49 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:15:54 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:15:59 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:16:04 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:16:09 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:16:14 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:16:19 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:16:24 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:16:29 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:16:34 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:16:39 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:16:45 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:16:50 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"3","CompName":"KADIR","Command":"ipconfig","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 04:16:44","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"3","CompName":"KADIR","Command":"ipconfig","Response":"\r\nWindows IP Configuration\r\n\r\n\r\nEthernet adapter Ethernet:\r\n\r\n   Connection-specific DNS Suffix  . : local\r\n   Link-local IPv6 Address . . . . . : fe80::afa3:1cb7:392:120a%8\r\n   IPv4 Address. . . . . . . . . . . : 192.168.1.109\r\n   Subnet Mask . . . . . . . . . . . : 255.255.255.0\r\n   Default Gateway . . . . . . . . . : 192.168.1.1\r\n\r\nEthernet adapter Bluetooth A\uFFFD Ba\uFFFDlant\uFFFDs\uFFFD:\r\n\r\n   Media State . . . . . . . . . . . : Media disconnected\r\n   Connection-specific DNS Suffix  . : \r\n","User":"Bilinmiyor","DateSent":"15.06.2025 04:16:44","DateApplied":"15.06.2025 04:16:50","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+Komut basariyla guncellendi.
+15.06.2025 04:16:55 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:17:00 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:17:05 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:17:10 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:17:15 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:17:20 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:17:25 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:17:30 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:17:35 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:17:40 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:17:45 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:17:50 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:17:55 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:18:00 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:18:05 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:18:10 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:18:15 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:18:20 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:18:25 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:18:30 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:18:35 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:18:40 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:18:45 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:18:50 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:18:55 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:19:00 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:19:05 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:19:10 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:19:15 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:19:20 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:19:25 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:19:30 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:19:35 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:19:40 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:19:45 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:19:50 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:19:55 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:20:00 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:20:05 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:20:10 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:20:15 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:20:20 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:20:25 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:20:30 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:20:35 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:20:40 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:20:45 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:20:50 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:20:55 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:21:00 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:21:05 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:21:10 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:21:15 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:21:20 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:21:25 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:21:30 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:21:35 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:21:40 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:21:45 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:21:50 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:21:55 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:22:00 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:22:05 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:22:10 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:22:15 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:22:20 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:22:25 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:22:30 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:22:35 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:22:40 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:22:45 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:22:50 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:22:55 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:23:00 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:23:05 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:23:10 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:23:15 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:23:20 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:23:25 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:23:30 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:23:35 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:23:40 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:23:45 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:23:50 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:23:55 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:24:00 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:24:05 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:24:10 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"4","CompName":"KADIR","Command":"D:\\MARSYS\\MARSYS.exe","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 04:24:09","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"4","CompName":"KADIR","Command":"D:\\MARSYS\\MARSYS.exe","Response":"HATA: WARNING: A restricted method in java.lang.System has been called\nWARNING: java.lang.System::load has been called by com.sun.glass.utils.NativeLibLoader in module javafx.graphics (file:/D:/MARSYS/./javafx-sdk-21.0.1/lib/javafx.graphics.jar)\nWARNING: Use --enable-native-access=javafx.graphics to avoid a warning for callers in this module\nWARNING: Restricted methods will be blocked in a future release unless native access is enabled\n\r\nWARNING: A terminally deprecated method in sun.misc.Unsafe has been called\nWARNING: sun.misc.Unsafe::allocateMemory has been called by com.sun.marlin.OffHeapArray (file:/D:/MARSYS/./javafx-sdk-21.0.1/lib/javafx.graphics.jar)\nWARNING: Please consider reporting this to the maintainers of class com.sun.marlin.OffHeapArray\nWARNING: sun.misc.Unsafe::allocateMemory will be removed in a future release\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 04:24:09","DateApplied":"15.06.2025 04:24:26","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+Komut basariyla guncellendi.
+15.06.2025 04:24:31 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:24:36 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:24:41 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:24:46 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:24:51 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:24:56 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:25:01 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:25:06 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:25:11 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:25:16 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:25:21 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:25:26 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:25:31 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:25:36 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:25:41 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:25:46 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:25:51 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:25:56 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:26:01 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:26:06 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:26:11 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:26:16 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:26:21 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:26:26 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:26:31 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:26:36 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:26:41 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:26:46 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"5","CompName":"KADIR","Command":"C:\\Windows\\explorer.exe","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 04:26:44","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"5","CompName":"KADIR","Command":"C:\\Windows\\explorer.exe","Response":"Program baslatildi.","User":"Bilinmiyor","DateSent":"15.06.2025 04:26:44","DateApplied":"15.06.2025 04:26:46","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+Komut basariyla guncellendi.
+15.06.2025 04:26:51 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:26:56 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:27:01 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 04:27:06 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 17:40:22 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"6","CompName":"KADIR","Command":"chrome.exe","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 17:39:28","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"6","CompName":"KADIR","Command":"chrome.exe","Response":"HATA: \u0027chrome.exe\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"15.06.2025 17:39:28","DateApplied":"15.06.2025 17:40:22","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+Komut basariyla guncellendi.
+15.06.2025 17:40:27 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
+15.06.2025 18:13:27 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":"7","CompName":"KADIR","Command":"C:\\Windows\\explorer.exe","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"15.06.2025 18:12:46","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+-------------------------------------
+{"Id":"7","CompName":"KADIR","Command":"C:\\Windows\\explorer.exe","Response":"Program baslatildi.","User":"Bilinmiyor","DateSent":"15.06.2025 18:12:46","DateApplied":"15.06.2025 18:13:27","IsApplied":"Bilinmiyor"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+Komut basariyla guncellendi.
+15.06.2025 18:13:32 Servis calisiyor.
+http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+-------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+Geçersiz komut veya komut boş.
