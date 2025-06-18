@@ -1,0 +1,1170 @@
+23:13:14 17.06.2025 23:13:14 Servis calisiyor.
+23:13:14 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:13:14 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:13:14 Geçersiz komut veya komut boş.
+23:13:19 17.06.2025 23:13:19 Servis calisiyor.
+23:13:19 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:13:19 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:13:19 Geçersiz komut veya komut boş.
+23:13:24 17.06.2025 23:13:24 Servis calisiyor.
+23:13:24 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:13:24 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:13:24 Geçersiz komut veya komut boş.
+23:13:29 17.06.2025 23:13:29 Servis calisiyor.
+23:13:29 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:13:29 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:13:29 Geçersiz komut veya komut boş.
+23:13:34 17.06.2025 23:13:34 Servis calisiyor.
+23:13:34 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:13:34 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:13:34 Geçersiz komut veya komut boş.
+23:13:39 17.06.2025 23:13:39 Servis calisiyor.
+23:13:39 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:13:39 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:13:39 Geçersiz komut veya komut boş.
+23:13:44 17.06.2025 23:13:44 Servis calisiyor.
+23:13:44 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:13:44 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:13:44 Geçersiz komut veya komut boş.
+23:13:49 17.06.2025 23:13:49 Servis calisiyor.
+23:13:49 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:13:49 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:13:49 Geçersiz komut veya komut boş.
+23:13:54 17.06.2025 23:13:54 Servis calisiyor.
+23:13:54 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:13:54 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:13:54 Geçersiz komut veya komut boş.
+23:13:59 17.06.2025 23:13:59 Servis calisiyor.
+23:13:59 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:13:59 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:13:59 Geçersiz komut veya komut boş.
+23:14:04 17.06.2025 23:14:04 Servis calisiyor.
+23:14:04 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:14:04 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:14:04 Geçersiz komut veya komut boş.
+23:14:09 17.06.2025 23:14:09 Servis calisiyor.
+23:14:09 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:14:09 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:14:09 Geçersiz komut veya komut boş.
+23:14:14 17.06.2025 23:14:14 Servis calisiyor.
+23:14:14 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:14:14 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:14:14 Geçersiz komut veya komut boş.
+23:14:19 17.06.2025 23:14:19 Servis calisiyor.
+23:14:19 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:14:19 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:14:19 Geçersiz komut veya komut boş.
+23:14:24 17.06.2025 23:14:24 Servis calisiyor.
+23:14:24 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:14:24 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:14:24 Geçersiz komut veya komut boş.
+23:14:29 17.06.2025 23:14:29 Servis calisiyor.
+23:14:29 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:14:29 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:14:29 Geçersiz komut veya komut boş.
+23:14:34 17.06.2025 23:14:34 Servis calisiyor.
+23:14:34 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:14:34 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:14:34 Geçersiz komut veya komut boş.
+23:14:39 17.06.2025 23:14:39 Servis calisiyor.
+23:14:39 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:14:39 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:14:39 Geçersiz komut veya komut boş.
+23:14:44 17.06.2025 23:14:44 Servis calisiyor.
+23:14:44 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:14:44 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:14:44 Geçersiz komut veya komut boş.
+23:14:49 17.06.2025 23:14:49 Servis calisiyor.
+23:14:49 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:14:49 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:14:49 Geçersiz komut veya komut boş.
+23:14:54 17.06.2025 23:14:54 Servis calisiyor.
+23:14:54 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:14:54 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:14:54 Geçersiz komut veya komut boş.
+23:14:59 17.06.2025 23:14:59 Servis calisiyor.
+23:14:59 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:14:59 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:14:59 Geçersiz komut veya komut boş.
+23:15:04 17.06.2025 23:15:04 Servis calisiyor.
+23:15:04 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:15:04 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:15:04 Geçersiz komut veya komut boş.
+23:15:09 17.06.2025 23:15:09 Servis calisiyor.
+23:15:09 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:15:09 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:15:09 Geçersiz komut veya komut boş.
+23:15:14 17.06.2025 23:15:14 Servis calisiyor.
+23:15:14 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:15:14 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:15:14 Geçersiz komut veya komut boş.
+23:15:19 17.06.2025 23:15:19 Servis calisiyor.
+23:15:19 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:15:19 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:15:19 Geçersiz komut veya komut boş.
+23:15:24 17.06.2025 23:15:24 Servis calisiyor.
+23:15:24 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:15:24 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:15:24 Geçersiz komut veya komut boş.
+23:15:29 17.06.2025 23:15:29 Servis calisiyor.
+23:15:29 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:15:29 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:15:29 Geçersiz komut veya komut boş.
+23:15:34 17.06.2025 23:15:34 Servis calisiyor.
+23:15:34 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:15:34 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:15:34 Geçersiz komut veya komut boş.
+23:15:39 17.06.2025 23:15:39 Servis calisiyor.
+23:15:39 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:15:39 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:15:39 Geçersiz komut veya komut boş.
+23:15:44 17.06.2025 23:15:44 Servis calisiyor.
+23:15:44 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:15:44 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:15:44 Geçersiz komut veya komut boş.
+23:15:50 17.06.2025 23:15:50 Servis calisiyor.
+23:15:50 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:15:50 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:15:50 Geçersiz komut veya komut boş.
+23:15:55 17.06.2025 23:15:55 Servis calisiyor.
+23:15:55 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:15:55 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:15:55 Geçersiz komut veya komut boş.
+23:16:00 17.06.2025 23:16:00 Servis calisiyor.
+23:16:00 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:16:00 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:16:00 Geçersiz komut veya komut boş.
+23:16:05 17.06.2025 23:16:05 Servis calisiyor.
+23:16:05 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:16:05 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:16:05 Geçersiz komut veya komut boş.
+23:16:10 17.06.2025 23:16:10 Servis calisiyor.
+23:16:10 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:16:10 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:16:10 Geçersiz komut veya komut boş.
+23:16:15 17.06.2025 23:16:15 Servis calisiyor.
+23:16:15 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:16:15 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:16:15 Geçersiz komut veya komut boş.
+23:16:20 17.06.2025 23:16:20 Servis calisiyor.
+23:16:20 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:16:20 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:16:20 Geçersiz komut veya komut boş.
+23:16:25 17.06.2025 23:16:25 Servis calisiyor.
+23:16:25 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:16:25 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:16:25 Geçersiz komut veya komut boş.
+23:16:30 17.06.2025 23:16:30 Servis calisiyor.
+23:16:30 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:16:30 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:16:30 Geçersiz komut veya komut boş.
+23:16:35 17.06.2025 23:16:35 Servis calisiyor.
+23:16:35 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:16:35 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:16:35 Geçersiz komut veya komut boş.
+23:16:40 17.06.2025 23:16:40 Servis calisiyor.
+23:16:40 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:16:40 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:16:40 Geçersiz komut veya komut boş.
+23:16:45 17.06.2025 23:16:45 Servis calisiyor.
+23:16:45 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:16:45 -------------------------------------
+{"Id":"9","CompName":"KADIR","Command":"aaa","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"17.06.2025 23:16:40","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:16:45 -------------------------------------
+{"Id":"9","CompName":"KADIR","Command":"aaa","Response":"HATA: \u0027aaa\u0027 is not recognized as an internal or external command,\r\noperable program or batch file.\r\n","User":"Bilinmiyor","DateSent":"17.06.2025 23:16:40","DateApplied":"17.06.2025 23:16:45","IsApplied":"TRUE"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+23:16:45 Komut basariyla guncellendi.
+23:16:50 17.06.2025 23:16:50 Servis calisiyor.
+23:16:50 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:16:50 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:16:50 Geçersiz komut veya komut boş.
+23:16:55 17.06.2025 23:16:55 Servis calisiyor.
+23:16:55 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:16:55 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:16:55 Geçersiz komut veya komut boş.
+23:17:00 17.06.2025 23:17:00 Servis calisiyor.
+23:17:00 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:17:00 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:17:00 Geçersiz komut veya komut boş.
+23:17:05 17.06.2025 23:17:05 Servis calisiyor.
+23:17:05 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:17:05 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:17:05 Geçersiz komut veya komut boş.
+23:17:10 17.06.2025 23:17:10 Servis calisiyor.
+23:17:10 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:17:10 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:17:10 Geçersiz komut veya komut boş.
+23:17:16 17.06.2025 23:17:16 Servis calisiyor.
+23:17:16 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:17:16 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:17:16 Geçersiz komut veya komut boş.
+23:17:21 17.06.2025 23:17:21 Servis calisiyor.
+23:17:21 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:17:21 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:17:21 Geçersiz komut veya komut boş.
+23:17:26 17.06.2025 23:17:26 Servis calisiyor.
+23:17:26 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:17:26 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:17:26 Geçersiz komut veya komut boş.
+23:17:31 17.06.2025 23:17:31 Servis calisiyor.
+23:17:31 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:17:31 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:17:31 Geçersiz komut veya komut boş.
+23:17:36 17.06.2025 23:17:36 Servis calisiyor.
+23:17:36 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:17:36 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:17:36 Geçersiz komut veya komut boş.
+23:17:42 17.06.2025 23:17:42 Servis calisiyor.
+23:17:42 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:17:42 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:17:42 Geçersiz komut veya komut boş.
+23:17:47 17.06.2025 23:17:47 Servis calisiyor.
+23:17:47 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:17:47 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:17:47 Geçersiz komut veya komut boş.
+23:17:52 17.06.2025 23:17:52 Servis calisiyor.
+23:17:52 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:17:52 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:17:52 Geçersiz komut veya komut boş.
+23:17:57 17.06.2025 23:17:57 Servis calisiyor.
+23:17:57 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:17:57 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:17:57 Geçersiz komut veya komut boş.
+23:18:02 17.06.2025 23:18:02 Servis calisiyor.
+23:18:02 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:18:02 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:18:02 Geçersiz komut veya komut boş.
+23:18:07 17.06.2025 23:18:07 Servis calisiyor.
+23:18:07 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:18:07 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:18:07 Geçersiz komut veya komut boş.
+23:18:12 17.06.2025 23:18:12 Servis calisiyor.
+23:18:12 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:18:12 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:18:12 Geçersiz komut veya komut boş.
+23:18:17 17.06.2025 23:18:17 Servis calisiyor.
+23:18:17 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:18:17 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:18:17 Geçersiz komut veya komut boş.
+23:18:22 17.06.2025 23:18:22 Servis calisiyor.
+23:18:22 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:18:22 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:18:22 Geçersiz komut veya komut boş.
+23:18:27 17.06.2025 23:18:27 Servis calisiyor.
+23:18:27 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:18:27 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:18:27 Geçersiz komut veya komut boş.
+23:18:32 17.06.2025 23:18:32 Servis calisiyor.
+23:18:32 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:18:32 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:18:32 Geçersiz komut veya komut boş.
+23:18:37 17.06.2025 23:18:37 Servis calisiyor.
+23:18:37 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:18:37 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:18:37 Geçersiz komut veya komut boş.
+23:18:42 17.06.2025 23:18:42 Servis calisiyor.
+23:18:42 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:18:42 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:18:42 Geçersiz komut veya komut boş.
+23:18:47 17.06.2025 23:18:47 Servis calisiyor.
+23:18:47 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:18:47 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:18:47 Geçersiz komut veya komut boş.
+23:18:52 17.06.2025 23:18:52 Servis calisiyor.
+23:18:52 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:18:52 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:18:52 Geçersiz komut veya komut boş.
+23:18:57 17.06.2025 23:18:57 Servis calisiyor.
+23:18:57 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:18:57 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:18:57 Geçersiz komut veya komut boş.
+23:19:02 17.06.2025 23:19:02 Servis calisiyor.
+23:19:02 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:19:02 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:19:02 Geçersiz komut veya komut boş.
+23:19:07 17.06.2025 23:19:07 Servis calisiyor.
+23:19:07 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:19:07 -------------------------------------
+{"Id":null,"CompName":null,"Command":null,"Response":null,"User":null,"DateSent":null,"DateApplied":null,"IsApplied":null}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:19:07 Geçersiz komut veya komut boş.
+23:24:45 17.06.2025 23:24:45 Servis calisiyor.
+23:24:45 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:24:45 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:24:45 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:24:45 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:24:45 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\Worker.cs:line 65
+23:24:50 17.06.2025 23:24:50 Servis calisiyor.
+23:24:50 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:24:50 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:24:50 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:24:50 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:24:50 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\Worker.cs:line 65
+23:24:55 17.06.2025 23:24:55 Servis calisiyor.
+23:24:55 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:24:55 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:24:55 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:24:55 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:24:55 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\Worker.cs:line 65
+23:25:00 17.06.2025 23:25:00 Servis calisiyor.
+23:25:00 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:25:00 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:25:00 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:25:00 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:25:00 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\Worker.cs:line 65
+23:25:05 17.06.2025 23:25:05 Servis calisiyor.
+23:25:05 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:25:05 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:25:05 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:25:05 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:25:05 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\Worker.cs:line 65
+23:25:10 17.06.2025 23:25:10 Servis calisiyor.
+23:25:10 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:25:10 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:25:10 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:25:10 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:25:10 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\Worker.cs:line 65
+23:25:15 17.06.2025 23:25:15 Servis calisiyor.
+23:25:15 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:25:15 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:25:15 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:25:15 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:25:15 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\Worker.cs:line 65
+23:25:20 17.06.2025 23:25:20 Servis calisiyor.
+23:25:20 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:25:20 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:25:20 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:25:20 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:25:20 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\Worker.cs:line 65
+23:25:25 17.06.2025 23:25:25 Servis calisiyor.
+23:25:25 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:25:25 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:25:25 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:25:25 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:25:25 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\Worker.cs:line 65
+23:25:30 17.06.2025 23:25:30 Servis calisiyor.
+23:25:30 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:25:30 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:25:30 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:25:30 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:25:30 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\Worker.cs:line 65
+23:25:35 17.06.2025 23:25:35 Servis calisiyor.
+23:25:35 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:25:35 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:25:35 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:25:35 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:25:35 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\Worker.cs:line 65
+23:25:40 17.06.2025 23:25:40 Servis calisiyor.
+23:25:40 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:25:40 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:25:40 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:25:40 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:25:40 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\Worker.cs:line 65
+23:25:45 17.06.2025 23:25:45 Servis calisiyor.
+23:25:45 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:25:45 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:25:45 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:25:45 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:25:45 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\Worker.cs:line 65
+23:25:51 17.06.2025 23:25:51 Servis calisiyor.
+23:25:51 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:25:51 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:25:51 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:25:51 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:25:51 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\Worker.cs:line 65
+23:25:56 17.06.2025 23:25:56 Servis calisiyor.
+23:25:56 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:25:56 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:25:56 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:25:56 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:25:56 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:26:01 17.06.2025 23:26:01 Servis calisiyor.
+23:26:01 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:26:01 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:26:01 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:26:01 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:26:01 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:26:06 17.06.2025 23:26:06 Servis calisiyor.
+23:26:06 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:26:06 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:26:06 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:26:06 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:26:06 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:26:11 17.06.2025 23:26:11 Servis calisiyor.
+23:26:11 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:26:11 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:26:11 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:26:11 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:26:11 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:26:16 17.06.2025 23:26:16 Servis calisiyor.
+23:26:16 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:26:16 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:26:16 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:26:16 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:26:16 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:26:21 17.06.2025 23:26:21 Servis calisiyor.
+23:26:21 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:26:21 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:26:21 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:26:21 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:26:21 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:26:26 17.06.2025 23:26:26 Servis calisiyor.
+23:26:26 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:26:26 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:26:26 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:26:26 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:26:26 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:26:31 17.06.2025 23:26:31 Servis calisiyor.
+23:26:31 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:26:31 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:26:31 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:26:31 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:26:31 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:26:36 17.06.2025 23:26:36 Servis calisiyor.
+23:26:36 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:26:36 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:26:36 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:26:36 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:26:36 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:26:41 17.06.2025 23:26:41 Servis calisiyor.
+23:26:41 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:26:41 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:26:41 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:26:41 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:26:41 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:26:46 17.06.2025 23:26:46 Servis calisiyor.
+23:26:46 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:26:46 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:26:46 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:26:46 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:26:46 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:26:51 17.06.2025 23:26:51 Servis calisiyor.
+23:26:51 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:26:51 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:26:51 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:26:51 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:26:51 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:26:56 17.06.2025 23:26:56 Servis calisiyor.
+23:26:56 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:26:56 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:26:56 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:26:56 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:26:56 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:27:01 17.06.2025 23:27:01 Servis calisiyor.
+23:27:01 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:27:01 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:27:01 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:27:01 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:27:01 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:27:06 17.06.2025 23:27:06 Servis calisiyor.
+23:27:06 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:27:06 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:27:06 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:27:06 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:27:06 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:27:11 17.06.2025 23:27:11 Servis calisiyor.
+23:27:11 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:27:11 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:27:11 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:27:11 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:27:11 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:27:16 17.06.2025 23:27:16 Servis calisiyor.
+23:27:16 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:27:16 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:27:16 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:27:16 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:27:16 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.Deserialize(Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 utf8Json, JsonTypeInfo`1 jsonTypeInfo, Nullable`1 actualByteCount)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:27:21 17.06.2025 23:27:21 Servis calisiyor.
+23:27:21 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:27:21 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:27:21 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:27:21 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:27:21 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:27:26 17.06.2025 23:27:26 Servis calisiyor.
+23:27:26 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:27:26 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:27:26 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:27:26 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:27:26 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:27:31 17.06.2025 23:27:31 Servis calisiyor.
+23:27:31 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:27:31 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:27:31 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:27:31 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:27:31 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:27:36 17.06.2025 23:27:36 Servis calisiyor.
+23:27:36 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:27:36 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:27:36 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:27:36 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:27:36 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:27:41 17.06.2025 23:27:41 Servis calisiyor.
+23:27:41 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:27:41 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:27:41 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:27:41 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:27:41 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:27:46 17.06.2025 23:27:46 Servis calisiyor.
+23:27:46 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:27:46 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:27:46 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:27:46 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:27:46 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:27:51 17.06.2025 23:27:51 Servis calisiyor.
+23:27:51 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:27:51 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:27:51 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:27:51 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:27:51 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:27:56 17.06.2025 23:27:56 Servis calisiyor.
+23:27:56 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:27:56 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:27:56 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:27:56 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:27:56 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:28:01 17.06.2025 23:28:01 Servis calisiyor.
+23:28:01 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:28:01 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:28:01 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:28:01 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:28:01 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:28:06 17.06.2025 23:28:06 Servis calisiyor.
+23:28:06 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:28:06 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:28:06 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:28:06 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:28:06 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:28:11 17.06.2025 23:28:11 Servis calisiyor.
+23:28:11 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:28:11 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:28:11 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:28:11 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:28:11 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:28:16 17.06.2025 23:28:16 Servis calisiyor.
+23:28:16 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:28:16 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:28:16 HATA: 'S' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.
+23:28:16 Inner Exception: 'S' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+23:28:16 Stack Trace:    at System.Text.Json.ThrowHelper.ReThrowWithPath(ReadStack& state, JsonReaderException ex)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.JsonSerializer.ReadFromSpan[TValue](ReadOnlySpan`1 json, JsonTypeInfo`1 jsonTypeInfo)
+   at System.Text.Json.JsonSerializer.Deserialize[TValue](String json, JsonSerializerOptions options)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)
+23:28:21 17.06.2025 23:28:21 Servis calisiyor.
+23:28:21 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:28:21 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:28:21 Sirada bekleyen komut yok.
+23:28:26 17.06.2025 23:28:26 Servis calisiyor.
+23:28:26 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:28:26 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:28:26 Sirada bekleyen komut yok.
+23:28:31 17.06.2025 23:28:31 Servis calisiyor.
+23:28:31 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:28:31 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:28:31 Sirada bekleyen komut yok.
+23:28:36 17.06.2025 23:28:36 Servis calisiyor.
+23:28:36 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:28:36 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:28:36 Sirada bekleyen komut yok.
+23:28:41 17.06.2025 23:28:41 Servis calisiyor.
+23:28:41 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:28:41 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:28:41 Sirada bekleyen komut yok.
+23:28:46 17.06.2025 23:28:46 Servis calisiyor.
+23:28:46 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:28:50 HATA: Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı. (localhost:5105)
+23:28:50 Inner Exception: Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı.
+23:28:50 Stack Trace:    at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.InjectNewHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl)

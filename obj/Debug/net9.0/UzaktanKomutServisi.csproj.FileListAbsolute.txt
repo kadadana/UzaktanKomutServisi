@@ -97,3 +97,4 @@ C:\Users\kadirpc\VS Code\UzaktanKomutServisi\obj\Debug\net9.0\ref\UzaktanKomutSe
 C:\Users\kadirpc\VS Code\UzaktanKomutServisi\bin\Debug\net9.0\System.CodeDom.dll
 C:\Users\kadirpc\VS Code\UzaktanKomutServisi\bin\Debug\net9.0\System.Management.dll
 C:\Users\kadirpc\VS Code\UzaktanKomutServisi\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Management.dll
+C:\Users\kadirpc\VS Code\UzaktanKomutServisi\obj\Debug\net9.0\UzaktanKomutServisi.sourcelink.json

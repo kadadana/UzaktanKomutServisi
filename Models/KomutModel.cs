@@ -1,6 +1,6 @@
 using System.Text.Json;
 
-namespace EnvanterApiProjesi.Models
+namespace UzaktanKomutServisi.Models
 {
     public class KomutModel
     {

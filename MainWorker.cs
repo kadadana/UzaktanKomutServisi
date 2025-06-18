@@ -1,16 +1,16 @@
 using System.Xml;
-using System.Management;
-using System.Runtime.InteropServices;
 using System.Text.Json;
 using System.Text;
-using System.CodeDom;
-using EnvanterApiProjesi.Models;
-
+using UzaktanKomutServisi.Models;
+using System.Management;
+using System.Runtime.InteropServices;
 
 namespace UzaktanKomutServisi;
 
 public class Worker : BackgroundService
 {
+    private DateTime _lastLogDate = DateTime.MinValue;
+    private string? _currentLogFile = null;
     private string? compName;
     readonly HttpClient _httpClient = new HttpClient();
     static string programYolu = AppDomain.CurrentDomain.BaseDirectory.ToString();
@@ -29,6 +29,7 @@ public class Worker : BackgroundService
     {
         while (!stoppingToken.IsCancellationRequested)
         {
+
             Logger(DateTime.Now + " Servis calisiyor.");
             if (File.Exists(xmlPath))
             {
@@ -57,15 +58,18 @@ public class Worker : BackgroundService
                 "\nKomut sunucudan basariyla alindi." +
                 "\n-------------------------------------");
 
-
-                if (!string.IsNullOrWhiteSpace(jsonKomut))
+                if (!string.IsNullOrWhiteSpace(jsonKomut) && jsonKomut != "Sirada bekleyen komut yok.")
                 {
                     KomutModel? komutModel = JsonSerializer.Deserialize<KomutModel>(jsonKomut);
                     if (komutModel != null && !string.IsNullOrWhiteSpace(komutModel.Command))
                     {
                         string returnOfCmd = WindowsCommands.RunCommand(komutModel.Command, false);
                         komutModel.Response = returnOfCmd;
+                        System.Console.WriteLine("KOMUT:\n" + komutModel.Command);
+                        System.Console.WriteLine("----------------------------------------");
+                        System.Console.WriteLine("OUTPUT:\n" + returnOfCmd);
                         komutModel.DateApplied = DateTime.Now.ToString();
+                        komutModel.IsApplied = "TRUE";
                         await UpdateCommand(updateCommandServerUrl, komutModel);
                     }
                     else
@@ -77,7 +81,7 @@ public class Worker : BackgroundService
                 }
                 else
                 {
-                    Logger("Komut bulunamadi.");
+                    Logger(jsonKomut);
                     return;
                 }
 
@@ -120,30 +124,22 @@ public class Worker : BackgroundService
             Logger($"Stack Trace: {ex.StackTrace}");
         }
     }
-    private static void Logger(string mesaj)
+    public void Logger(string message)
     {
-        string dosyaYolu = AppDomain.CurrentDomain.BaseDirectory + "\\Logs";
-        if (!Directory.Exists(dosyaYolu))
-        {
-            Directory.CreateDirectory(dosyaYolu);
-        }
+        var today = DateTime.Now.Date;
 
-        string textYolu = dosyaYolu + "\\Log.txt";
+        if (_lastLogDate != today)
+        {
+            string logDir = AppDomain.CurrentDomain.BaseDirectory + "\\Logs";
+            Directory.CreateDirectory(logDir);
 
-        if (!File.Exists(textYolu))
-        {
-            using (StreamWriter sw = File.CreateText(textYolu))
-            {
-                sw.WriteLine(mesaj);
-            }
+            _currentLogFile = Path.Combine(logDir, $"log_{today:yyyy-MM-dd}.txt");
+
+            _lastLogDate = today;
+
         }
-        else
-        {
-            using (StreamWriter sw = File.AppendText(textYolu))
-            {
-                sw.WriteLine(mesaj);
-            }
-        }
+        File.AppendAllText(_currentLogFile!, $"{DateTime.Now:HH:mm:ss} {message}{Environment.NewLine}");
+
     }
     private static string ServerFromXml(string xmlFilePath)
     {
@@ -154,7 +150,7 @@ public class Worker : BackgroundService
 
         return node?.InnerText.Trim() ?? "Bulunamadi";
     }
-    private string? GetCompName()
+    public string? GetCompName()
     {
         if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
         {

@@ -1,12 +1,14 @@
 using System.Diagnostics;
-using System.Reflection;
+using System.Text;
+
 
 namespace UzaktanKomutServisi;
 
-public static class WindowsCommands
+public class WindowsCommands
 {
     public static string RunCommand(string? command, bool usePowerShell = false)
     {
+
         try
         {
             ProcessStartInfo psi = new ProcessStartInfo
@@ -15,20 +17,28 @@ public static class WindowsCommands
                 Arguments = usePowerShell ? $"-NoProfile -ExecutionPolicy Bypass -Command \"{command}\"" : $"/C {command}",
                 RedirectStandardOutput = true,
                 RedirectStandardError = true,
+                StandardOutputEncoding = Encoding.UTF8,
+                StandardErrorEncoding = Encoding.UTF8,
                 UseShellExecute = false,
                 CreateNoWindow = true
             };
 
             using Process process = Process.Start(psi)!;
-            string output = string.IsNullOrWhiteSpace(process.StandardOutput.ReadToEnd()) ? "Program baslatildi." : process.StandardOutput.ReadToEnd();
+
+            string output = process.StandardOutput.ReadToEnd();
             string error = process.StandardError.ReadToEnd();
+
             process.WaitForExit();
 
-            return string.IsNullOrWhiteSpace(error) ? output : $"HATA: {error}";
+            return string.IsNullOrWhiteSpace(error)
+                ? (string.IsNullOrWhiteSpace(output) ? "Program baslatildi." : output)
+                : $"HATA: {error}";
         }
         catch (Exception ex)
         {
             return $"HATA: {ex.Message}";
         }
     }
+
+    
 }

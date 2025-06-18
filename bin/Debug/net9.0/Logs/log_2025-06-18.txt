@@ -1,0 +1,1153 @@
+22:59:56 18.06.2025 22:59:56 Servis calisiyor.
+22:59:56 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:00:00 HATA: Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı. (localhost:5105)
+23:00:00 Inner Exception: Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı.
+23:00:00 Stack Trace:    at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.InjectNewHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\MainWorker.cs:line 51
+23:00:05 18.06.2025 23:00:05 Servis calisiyor.
+23:00:05 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:00:10 HATA: Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı. (localhost:5105)
+23:00:10 Inner Exception: Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı.
+23:00:10 Stack Trace:    at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.InjectNewHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\MainWorker.cs:line 51
+23:00:15 18.06.2025 23:00:15 Servis calisiyor.
+23:00:15 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:00:19 HATA: Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı. (localhost:5105)
+23:00:19 Inner Exception: Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı.
+23:00:19 Stack Trace:    at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.InjectNewHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\MainWorker.cs:line 51
+23:00:24 18.06.2025 23:00:24 Servis calisiyor.
+23:00:24 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:00:28 HATA: Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı. (localhost:5105)
+23:00:28 Inner Exception: Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı.
+23:00:28 Stack Trace:    at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.InjectNewHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\MainWorker.cs:line 51
+23:00:33 18.06.2025 23:00:33 Servis calisiyor.
+23:00:33 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:00:37 HATA: Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı. (localhost:5105)
+23:00:37 Inner Exception: Hedef makine etkin olarak reddettiğinden bağlantı kurulamadı.
+23:00:37 Stack Trace:    at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.InjectNewHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at UzaktanKomutServisi.Worker.GetCommands(String serverUrl) in C:\Users\kadirpc\VS Code\UzaktanKomutServisi\MainWorker.cs:line 51
+23:00:42 18.06.2025 23:00:42 Servis calisiyor.
+23:00:42 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:00:43 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:00:43 Sirada bekleyen komut yok.
+23:00:48 18.06.2025 23:00:48 Servis calisiyor.
+23:00:48 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:00:48 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:00:48 Sirada bekleyen komut yok.
+23:00:53 18.06.2025 23:00:53 Servis calisiyor.
+23:00:53 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:00:53 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:00:53 Sirada bekleyen komut yok.
+23:00:58 18.06.2025 23:00:58 Servis calisiyor.
+23:00:58 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:00:58 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:00:58 Sirada bekleyen komut yok.
+23:01:03 18.06.2025 23:01:03 Servis calisiyor.
+23:01:03 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:01:03 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:01:03 Sirada bekleyen komut yok.
+23:01:08 18.06.2025 23:01:08 Servis calisiyor.
+23:01:08 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:01:08 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:01:08 Sirada bekleyen komut yok.
+23:01:13 18.06.2025 23:01:13 Servis calisiyor.
+23:01:13 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:01:13 -------------------------------------
+{"Id":"10","CompName":"KADIR","Command":"explorer.exe","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"18.06.2025 23:01:08","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:01:13 -------------------------------------
+{"Id":"10","CompName":"KADIR","Command":"explorer.exe","Response":"Program baslatildi.","User":"Bilinmiyor","DateSent":"18.06.2025 23:01:08","DateApplied":"18.06.2025 23:01:13","IsApplied":"TRUE"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+23:01:13 Komut basariyla guncellendi.
+23:01:18 18.06.2025 23:01:18 Servis calisiyor.
+23:01:18 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:01:18 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:01:18 Sirada bekleyen komut yok.
+23:01:23 18.06.2025 23:01:23 Servis calisiyor.
+23:01:23 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:01:23 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:01:23 Sirada bekleyen komut yok.
+23:01:28 18.06.2025 23:01:28 Servis calisiyor.
+23:01:28 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:01:28 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:01:28 Sirada bekleyen komut yok.
+23:01:33 18.06.2025 23:01:33 Servis calisiyor.
+23:01:33 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:01:33 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:01:33 Sirada bekleyen komut yok.
+23:01:38 18.06.2025 23:01:38 Servis calisiyor.
+23:01:38 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:01:38 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:01:38 Sirada bekleyen komut yok.
+23:01:43 18.06.2025 23:01:43 Servis calisiyor.
+23:01:43 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:01:43 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:01:43 Sirada bekleyen komut yok.
+23:01:48 18.06.2025 23:01:48 Servis calisiyor.
+23:01:48 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:01:48 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:01:48 Sirada bekleyen komut yok.
+23:01:53 18.06.2025 23:01:53 Servis calisiyor.
+23:01:53 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:01:53 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:01:53 Sirada bekleyen komut yok.
+23:01:58 18.06.2025 23:01:58 Servis calisiyor.
+23:01:58 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:01:58 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:01:58 Sirada bekleyen komut yok.
+23:02:03 18.06.2025 23:02:03 Servis calisiyor.
+23:02:03 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:02:03 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:02:03 Sirada bekleyen komut yok.
+23:02:08 18.06.2025 23:02:08 Servis calisiyor.
+23:02:08 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:02:08 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:02:08 Sirada bekleyen komut yok.
+23:02:13 18.06.2025 23:02:13 Servis calisiyor.
+23:02:13 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:02:13 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:02:13 Sirada bekleyen komut yok.
+23:02:18 18.06.2025 23:02:18 Servis calisiyor.
+23:02:18 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:02:18 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:02:18 Sirada bekleyen komut yok.
+23:02:23 18.06.2025 23:02:23 Servis calisiyor.
+23:02:23 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:02:23 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:02:23 Sirada bekleyen komut yok.
+23:02:28 18.06.2025 23:02:28 Servis calisiyor.
+23:02:28 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:02:28 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:02:28 Sirada bekleyen komut yok.
+23:02:33 18.06.2025 23:02:33 Servis calisiyor.
+23:02:33 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:02:33 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:02:33 Sirada bekleyen komut yok.
+23:02:38 18.06.2025 23:02:38 Servis calisiyor.
+23:02:38 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:02:38 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:02:38 Sirada bekleyen komut yok.
+23:02:43 18.06.2025 23:02:43 Servis calisiyor.
+23:02:43 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:02:44 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:02:44 Sirada bekleyen komut yok.
+23:02:49 18.06.2025 23:02:49 Servis calisiyor.
+23:02:49 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:02:49 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:02:49 Sirada bekleyen komut yok.
+23:02:54 18.06.2025 23:02:54 Servis calisiyor.
+23:02:54 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:02:54 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:02:54 Sirada bekleyen komut yok.
+23:02:59 18.06.2025 23:02:59 Servis calisiyor.
+23:02:59 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:02:59 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:02:59 Sirada bekleyen komut yok.
+23:03:04 18.06.2025 23:03:04 Servis calisiyor.
+23:03:04 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:03:04 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:03:04 Sirada bekleyen komut yok.
+23:03:09 18.06.2025 23:03:09 Servis calisiyor.
+23:03:09 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:03:09 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:03:09 Sirada bekleyen komut yok.
+23:03:14 18.06.2025 23:03:14 Servis calisiyor.
+23:03:14 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:03:14 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:03:14 Sirada bekleyen komut yok.
+23:03:19 18.06.2025 23:03:19 Servis calisiyor.
+23:03:19 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:03:19 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:03:19 Sirada bekleyen komut yok.
+23:03:24 18.06.2025 23:03:24 Servis calisiyor.
+23:03:24 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:03:24 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:03:24 Sirada bekleyen komut yok.
+23:03:29 18.06.2025 23:03:29 Servis calisiyor.
+23:03:29 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:03:29 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:03:29 Sirada bekleyen komut yok.
+23:03:34 18.06.2025 23:03:34 Servis calisiyor.
+23:03:34 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:03:34 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:03:34 Sirada bekleyen komut yok.
+23:03:39 18.06.2025 23:03:39 Servis calisiyor.
+23:03:39 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:03:39 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:03:39 Sirada bekleyen komut yok.
+23:03:44 18.06.2025 23:03:44 Servis calisiyor.
+23:03:44 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:03:44 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:03:44 Sirada bekleyen komut yok.
+23:03:49 18.06.2025 23:03:49 Servis calisiyor.
+23:03:49 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:03:49 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:03:49 Sirada bekleyen komut yok.
+23:03:54 18.06.2025 23:03:54 Servis calisiyor.
+23:03:54 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:03:54 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:03:54 Sirada bekleyen komut yok.
+23:03:59 18.06.2025 23:03:59 Servis calisiyor.
+23:03:59 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:03:59 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:03:59 Sirada bekleyen komut yok.
+23:04:04 18.06.2025 23:04:04 Servis calisiyor.
+23:04:04 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:04:04 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:04:04 Sirada bekleyen komut yok.
+23:04:09 18.06.2025 23:04:09 Servis calisiyor.
+23:04:09 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:04:09 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:04:09 Sirada bekleyen komut yok.
+23:04:14 18.06.2025 23:04:14 Servis calisiyor.
+23:04:14 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:04:14 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:04:14 Sirada bekleyen komut yok.
+23:04:19 18.06.2025 23:04:19 Servis calisiyor.
+23:04:19 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:04:19 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:04:19 Sirada bekleyen komut yok.
+23:04:24 18.06.2025 23:04:24 Servis calisiyor.
+23:04:24 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:04:24 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:04:24 Sirada bekleyen komut yok.
+23:04:29 18.06.2025 23:04:29 Servis calisiyor.
+23:04:29 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:04:29 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:04:29 Sirada bekleyen komut yok.
+23:04:34 18.06.2025 23:04:34 Servis calisiyor.
+23:04:34 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:04:34 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:04:34 Sirada bekleyen komut yok.
+23:04:39 18.06.2025 23:04:39 Servis calisiyor.
+23:04:39 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:04:39 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:04:39 Sirada bekleyen komut yok.
+23:04:44 18.06.2025 23:04:44 Servis calisiyor.
+23:04:44 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:04:44 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:04:44 Sirada bekleyen komut yok.
+23:04:49 18.06.2025 23:04:49 Servis calisiyor.
+23:04:49 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:04:49 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:04:49 Sirada bekleyen komut yok.
+23:04:54 18.06.2025 23:04:54 Servis calisiyor.
+23:04:54 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:04:54 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:04:54 Sirada bekleyen komut yok.
+23:04:59 18.06.2025 23:04:59 Servis calisiyor.
+23:04:59 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:04:59 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:04:59 Sirada bekleyen komut yok.
+23:05:04 18.06.2025 23:05:04 Servis calisiyor.
+23:05:04 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:05:04 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:05:04 Sirada bekleyen komut yok.
+23:05:09 18.06.2025 23:05:09 Servis calisiyor.
+23:05:09 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:05:09 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:05:09 Sirada bekleyen komut yok.
+23:05:14 18.06.2025 23:05:14 Servis calisiyor.
+23:05:14 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:05:14 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:05:14 Sirada bekleyen komut yok.
+23:05:19 18.06.2025 23:05:19 Servis calisiyor.
+23:05:19 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:05:19 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:05:19 Sirada bekleyen komut yok.
+23:05:24 18.06.2025 23:05:24 Servis calisiyor.
+23:05:24 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:05:24 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:05:24 Sirada bekleyen komut yok.
+23:05:29 18.06.2025 23:05:29 Servis calisiyor.
+23:05:29 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:05:29 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:05:29 Sirada bekleyen komut yok.
+23:05:34 18.06.2025 23:05:34 Servis calisiyor.
+23:05:34 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:05:34 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:05:34 Sirada bekleyen komut yok.
+23:05:39 18.06.2025 23:05:39 Servis calisiyor.
+23:05:39 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:05:39 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:05:39 Sirada bekleyen komut yok.
+23:05:44 18.06.2025 23:05:44 Servis calisiyor.
+23:05:44 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:05:44 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:05:44 Sirada bekleyen komut yok.
+23:05:49 18.06.2025 23:05:49 Servis calisiyor.
+23:05:49 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:05:49 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:05:49 Sirada bekleyen komut yok.
+23:05:54 18.06.2025 23:05:54 Servis calisiyor.
+23:05:54 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:05:54 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:05:54 Sirada bekleyen komut yok.
+23:05:59 18.06.2025 23:05:59 Servis calisiyor.
+23:05:59 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:05:59 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:05:59 Sirada bekleyen komut yok.
+23:06:04 18.06.2025 23:06:04 Servis calisiyor.
+23:06:04 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:06:04 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:06:04 Sirada bekleyen komut yok.
+23:06:09 18.06.2025 23:06:09 Servis calisiyor.
+23:06:09 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:06:09 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:06:09 Sirada bekleyen komut yok.
+23:06:14 18.06.2025 23:06:14 Servis calisiyor.
+23:06:14 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:06:14 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:06:14 Sirada bekleyen komut yok.
+23:06:19 18.06.2025 23:06:19 Servis calisiyor.
+23:06:19 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:06:19 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:06:19 Sirada bekleyen komut yok.
+23:06:24 18.06.2025 23:06:24 Servis calisiyor.
+23:06:24 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:06:24 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:06:24 Sirada bekleyen komut yok.
+23:06:29 18.06.2025 23:06:29 Servis calisiyor.
+23:06:29 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:06:29 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:06:29 Sirada bekleyen komut yok.
+23:06:34 18.06.2025 23:06:34 Servis calisiyor.
+23:06:34 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:06:34 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:06:34 Sirada bekleyen komut yok.
+23:06:39 18.06.2025 23:06:39 Servis calisiyor.
+23:06:39 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:06:39 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:06:39 Sirada bekleyen komut yok.
+23:06:44 18.06.2025 23:06:44 Servis calisiyor.
+23:06:44 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:06:44 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:06:44 Sirada bekleyen komut yok.
+23:06:49 18.06.2025 23:06:49 Servis calisiyor.
+23:06:49 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:06:49 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:06:49 Sirada bekleyen komut yok.
+23:06:54 18.06.2025 23:06:54 Servis calisiyor.
+23:06:54 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:06:54 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:06:54 Sirada bekleyen komut yok.
+23:06:59 18.06.2025 23:06:59 Servis calisiyor.
+23:06:59 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:06:59 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:06:59 Sirada bekleyen komut yok.
+23:07:04 18.06.2025 23:07:04 Servis calisiyor.
+23:07:04 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:07:04 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:07:04 Sirada bekleyen komut yok.
+23:07:09 18.06.2025 23:07:09 Servis calisiyor.
+23:07:09 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:07:09 -------------------------------------
+{"Id":"11","CompName":"KADIR","Command":"ver","Response":"Bilinmiyor","User":"Bilinmiyor","DateSent":"18.06.2025 23:07:07","DateApplied":"Bilinmiyor","IsApplied":"Bilinmiyor"}
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:07:09 -------------------------------------
+{"Id":"11","CompName":"KADIR","Command":"ver","Response":"\r\nMicrosoft Windows [Version 10.0.26100.4349]\r\n","User":"Bilinmiyor","DateSent":"18.06.2025 23:07:07","DateApplied":"18.06.2025 23:07:09","IsApplied":"TRUE"}
+Komut guncellenmeye calisiliyor.
+-------------------------------------
+23:07:09 Komut basariyla guncellendi.
+23:07:14 18.06.2025 23:07:14 Servis calisiyor.
+23:07:14 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:07:14 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:07:14 Sirada bekleyen komut yok.
+23:07:19 18.06.2025 23:07:19 Servis calisiyor.
+23:07:19 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:07:19 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:07:19 Sirada bekleyen komut yok.
+23:07:24 18.06.2025 23:07:24 Servis calisiyor.
+23:07:24 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:07:24 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:07:24 Sirada bekleyen komut yok.
+23:07:29 18.06.2025 23:07:29 Servis calisiyor.
+23:07:29 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:07:29 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:07:29 Sirada bekleyen komut yok.
+23:07:34 18.06.2025 23:07:34 Servis calisiyor.
+23:07:34 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:07:34 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:07:34 Sirada bekleyen komut yok.
+23:07:39 18.06.2025 23:07:39 Servis calisiyor.
+23:07:39 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:07:39 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:07:39 Sirada bekleyen komut yok.
+23:07:44 18.06.2025 23:07:44 Servis calisiyor.
+23:07:44 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:07:44 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:07:44 Sirada bekleyen komut yok.
+23:07:49 18.06.2025 23:07:49 Servis calisiyor.
+23:07:49 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:07:49 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:07:49 Sirada bekleyen komut yok.
+23:07:54 18.06.2025 23:07:54 Servis calisiyor.
+23:07:54 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:07:54 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:07:54 Sirada bekleyen komut yok.
+23:07:59 18.06.2025 23:07:59 Servis calisiyor.
+23:07:59 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:07:59 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:07:59 Sirada bekleyen komut yok.
+23:08:04 18.06.2025 23:08:04 Servis calisiyor.
+23:08:04 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:08:04 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:08:04 Sirada bekleyen komut yok.
+23:08:09 18.06.2025 23:08:09 Servis calisiyor.
+23:08:09 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:08:09 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:08:09 Sirada bekleyen komut yok.
+23:08:14 18.06.2025 23:08:14 Servis calisiyor.
+23:08:14 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:08:14 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:08:14 Sirada bekleyen komut yok.
+23:08:19 18.06.2025 23:08:19 Servis calisiyor.
+23:08:19 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:08:21 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:08:21 Sirada bekleyen komut yok.
+23:08:26 18.06.2025 23:08:26 Servis calisiyor.
+23:08:26 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:08:26 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:08:26 Sirada bekleyen komut yok.
+23:08:31 18.06.2025 23:08:31 Servis calisiyor.
+23:08:31 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:08:31 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:08:31 Sirada bekleyen komut yok.
+23:08:36 18.06.2025 23:08:36 Servis calisiyor.
+23:08:36 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:08:36 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:08:36 Sirada bekleyen komut yok.
+23:08:41 18.06.2025 23:08:41 Servis calisiyor.
+23:08:41 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:08:41 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:08:41 Sirada bekleyen komut yok.
+23:08:46 18.06.2025 23:08:46 Servis calisiyor.
+23:08:46 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:08:46 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:08:46 Sirada bekleyen komut yok.
+23:08:51 18.06.2025 23:08:51 Servis calisiyor.
+23:08:51 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:08:51 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:08:51 Sirada bekleyen komut yok.
+23:08:56 18.06.2025 23:08:56 Servis calisiyor.
+23:08:56 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:08:56 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:08:56 Sirada bekleyen komut yok.
+23:09:01 18.06.2025 23:09:01 Servis calisiyor.
+23:09:01 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:09:01 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:09:01 Sirada bekleyen komut yok.
+23:09:06 18.06.2025 23:09:06 Servis calisiyor.
+23:09:06 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:09:06 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:09:06 Sirada bekleyen komut yok.
+23:09:11 18.06.2025 23:09:11 Servis calisiyor.
+23:09:11 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:09:11 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:09:11 Sirada bekleyen komut yok.
+23:09:16 18.06.2025 23:09:16 Servis calisiyor.
+23:09:16 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:09:16 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:09:16 Sirada bekleyen komut yok.
+23:09:21 18.06.2025 23:09:21 Servis calisiyor.
+23:09:21 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:09:21 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:09:21 Sirada bekleyen komut yok.
+23:09:26 18.06.2025 23:09:26 Servis calisiyor.
+23:09:26 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:09:26 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:09:26 Sirada bekleyen komut yok.
+23:09:31 18.06.2025 23:09:31 Servis calisiyor.
+23:09:31 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:09:31 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:09:31 Sirada bekleyen komut yok.
+23:09:36 18.06.2025 23:09:36 Servis calisiyor.
+23:09:36 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:09:36 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:09:36 Sirada bekleyen komut yok.
+23:09:41 18.06.2025 23:09:41 Servis calisiyor.
+23:09:41 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:09:41 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:09:41 Sirada bekleyen komut yok.
+23:09:46 18.06.2025 23:09:46 Servis calisiyor.
+23:09:46 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:09:46 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:09:46 Sirada bekleyen komut yok.
+23:09:51 18.06.2025 23:09:51 Servis calisiyor.
+23:09:51 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:09:51 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:09:51 Sirada bekleyen komut yok.
+23:09:56 18.06.2025 23:09:56 Servis calisiyor.
+23:09:56 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:09:56 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:09:56 Sirada bekleyen komut yok.
+23:10:01 18.06.2025 23:10:01 Servis calisiyor.
+23:10:01 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:10:01 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:10:01 Sirada bekleyen komut yok.
+23:10:06 18.06.2025 23:10:06 Servis calisiyor.
+23:10:06 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:10:06 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:10:06 Sirada bekleyen komut yok.
+23:10:11 18.06.2025 23:10:11 Servis calisiyor.
+23:10:11 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:10:11 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:10:11 Sirada bekleyen komut yok.
+23:10:16 18.06.2025 23:10:16 Servis calisiyor.
+23:10:16 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:10:16 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:10:16 Sirada bekleyen komut yok.
+23:10:21 18.06.2025 23:10:21 Servis calisiyor.
+23:10:21 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:10:21 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:10:21 Sirada bekleyen komut yok.
+23:10:26 18.06.2025 23:10:26 Servis calisiyor.
+23:10:26 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:10:26 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:10:26 Sirada bekleyen komut yok.
+23:10:31 18.06.2025 23:10:31 Servis calisiyor.
+23:10:31 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:10:31 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:10:31 Sirada bekleyen komut yok.
+23:10:36 18.06.2025 23:10:36 Servis calisiyor.
+23:10:36 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:10:36 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:10:36 Sirada bekleyen komut yok.
+23:10:41 18.06.2025 23:10:41 Servis calisiyor.
+23:10:41 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:10:41 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:10:41 Sirada bekleyen komut yok.
+23:10:46 18.06.2025 23:10:46 Servis calisiyor.
+23:10:46 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:10:46 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:10:46 Sirada bekleyen komut yok.
+23:10:51 18.06.2025 23:10:51 Servis calisiyor.
+23:10:51 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:10:51 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:10:51 Sirada bekleyen komut yok.
+23:10:57 18.06.2025 23:10:57 Servis calisiyor.
+23:10:57 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:10:57 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:10:57 Sirada bekleyen komut yok.
+23:11:02 18.06.2025 23:11:02 Servis calisiyor.
+23:11:02 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:11:02 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:11:02 Sirada bekleyen komut yok.
+23:11:07 18.06.2025 23:11:07 Servis calisiyor.
+23:11:07 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:11:07 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:11:07 Sirada bekleyen komut yok.
+23:11:12 18.06.2025 23:11:12 Servis calisiyor.
+23:11:12 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:11:12 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:11:12 Sirada bekleyen komut yok.
+23:11:17 18.06.2025 23:11:17 Servis calisiyor.
+23:11:17 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:11:17 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:11:17 Sirada bekleyen komut yok.
+23:11:22 18.06.2025 23:11:22 Servis calisiyor.
+23:11:22 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:11:22 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:11:22 Sirada bekleyen komut yok.
+23:11:27 18.06.2025 23:11:27 Servis calisiyor.
+23:11:27 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:11:27 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:11:27 Sirada bekleyen komut yok.
+23:11:32 18.06.2025 23:11:32 Servis calisiyor.
+23:11:32 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:11:32 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:11:32 Sirada bekleyen komut yok.
+23:11:37 18.06.2025 23:11:37 Servis calisiyor.
+23:11:37 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:11:37 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:11:37 Sirada bekleyen komut yok.
+23:11:42 18.06.2025 23:11:42 Servis calisiyor.
+23:11:42 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:11:42 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:11:42 Sirada bekleyen komut yok.
+23:11:47 18.06.2025 23:11:47 Servis calisiyor.
+23:11:47 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:11:47 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:11:47 Sirada bekleyen komut yok.
+23:11:52 18.06.2025 23:11:52 Servis calisiyor.
+23:11:52 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:11:52 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:11:52 Sirada bekleyen komut yok.
+23:11:57 18.06.2025 23:11:57 Servis calisiyor.
+23:11:57 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:11:57 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:11:57 Sirada bekleyen komut yok.
+23:12:02 18.06.2025 23:12:02 Servis calisiyor.
+23:12:02 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:12:02 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:12:02 Sirada bekleyen komut yok.
+23:12:07 18.06.2025 23:12:07 Servis calisiyor.
+23:12:07 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:12:07 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:12:07 Sirada bekleyen komut yok.
+23:12:12 18.06.2025 23:12:12 Servis calisiyor.
+23:12:12 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:12:12 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:12:12 Sirada bekleyen komut yok.
+23:12:17 18.06.2025 23:12:17 Servis calisiyor.
+23:12:17 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:12:17 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:12:17 Sirada bekleyen komut yok.
+23:12:22 18.06.2025 23:12:22 Servis calisiyor.
+23:12:22 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:12:22 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:12:22 Sirada bekleyen komut yok.
+23:12:27 18.06.2025 23:12:27 Servis calisiyor.
+23:12:27 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:12:27 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:12:27 Sirada bekleyen komut yok.
+23:12:32 18.06.2025 23:12:32 Servis calisiyor.
+23:12:32 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:12:32 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:12:32 Sirada bekleyen komut yok.
+23:12:37 18.06.2025 23:12:37 Servis calisiyor.
+23:12:37 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:12:37 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:12:37 Sirada bekleyen komut yok.
+23:12:42 18.06.2025 23:12:42 Servis calisiyor.
+23:12:42 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:12:42 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:12:42 Sirada bekleyen komut yok.
+23:12:47 18.06.2025 23:12:47 Servis calisiyor.
+23:12:47 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:12:47 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:12:47 Sirada bekleyen komut yok.
+23:12:52 18.06.2025 23:12:52 Servis calisiyor.
+23:12:52 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:12:54 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:12:54 Sirada bekleyen komut yok.
+23:12:59 18.06.2025 23:12:59 Servis calisiyor.
+23:12:59 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:12:59 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:12:59 Sirada bekleyen komut yok.
+23:13:04 18.06.2025 23:13:04 Servis calisiyor.
+23:13:04 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:13:04 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:13:04 Sirada bekleyen komut yok.
+23:13:09 18.06.2025 23:13:09 Servis calisiyor.
+23:13:09 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:13:09 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:13:09 Sirada bekleyen komut yok.
+23:13:14 18.06.2025 23:13:14 Servis calisiyor.
+23:13:14 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:13:16 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:13:16 Sirada bekleyen komut yok.
+23:13:21 18.06.2025 23:13:21 Servis calisiyor.
+23:13:21 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:13:21 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:13:21 Sirada bekleyen komut yok.
+23:13:26 18.06.2025 23:13:26 Servis calisiyor.
+23:13:26 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:13:26 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:13:26 Sirada bekleyen komut yok.
+23:13:31 18.06.2025 23:13:31 Servis calisiyor.
+23:13:31 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:13:31 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:13:31 Sirada bekleyen komut yok.
+23:13:36 18.06.2025 23:13:36 Servis calisiyor.
+23:13:36 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.
+23:13:36 -------------------------------------
+Sirada bekleyen komut yok.
+Komut sunucudan basariyla alindi.
+-------------------------------------
+23:13:36 Sirada bekleyen komut yok.
+23:13:41 18.06.2025 23:13:41 Servis calisiyor.
+23:13:41 http://localhost:5105/api/KomutApi/GetCommand?compName=KADIR sunucusundan komutlar alinmaya calisiliyor.

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UzaktanKomutServisi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8225c3ce2c47c3ed67c128135c888ffc6244a458")]
 [assembly: System.Reflection.AssemblyProductAttribute("UzaktanKomutServisi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UzaktanKomutServisi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
