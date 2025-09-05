@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LZmKkjKNPb4=",
+  "dgSpecHash": "vPJltwp0hb8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kadirpc\\VS Code\\UzaktanKomutServisi\\UzaktanKomutServisi.csproj",
+  "projectFilePath": "C:\\Users\\kadirpc\\VS Code\\dotnet\\UzaktanKomutServisi\\UzaktanKomutServisi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kadirpc\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.6\\microsoft.extensions.configuration.9.0.6.nupkg.sha512",
     "C:\\Users\\kadirpc\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.6\\microsoft.extensions.configuration.abstractions.9.0.6.nupkg.sha512",

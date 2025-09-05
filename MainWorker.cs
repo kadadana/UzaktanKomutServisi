@@ -21,8 +21,8 @@ public class Worker : BackgroundService
     public Worker()
     {
         compName = GetCompName();
-        getCommandServerUrl = ServerFromXml(xmlPath) + "/GetCommand?compName=" + compName;
-        updateCommandServerUrl = ServerFromXml(xmlPath) + "/UpdateCommand?isUpdate=true";
+        getCommandServerUrl = ServerFromXml(xmlPath) + "/?compName=" + compName;
+        updateCommandServerUrl = ServerFromXml(xmlPath) + "/?isUpdate=true";
     }
 
     protected override async Task ExecuteAsync(CancellationToken stoppingToken)
@@ -74,7 +74,7 @@ public class Worker : BackgroundService
                     }
                     else
                     {
-                        Logger("Geçersiz komut veya komut boş.");
+                        Logger("Gecersiz veya bos komut.");
                         return;
                     }
 
@@ -110,7 +110,7 @@ public class Worker : BackgroundService
                 + jsonKomut +
                 "\nKomut guncellenmeye calisiliyor." +
                 "\n-------------------------------------");
-            var response = await _httpClient.PostAsync(serverUrl, content);
+            var response = await _httpClient.PutAsync(serverUrl, content);
 
             if (response.IsSuccessStatusCode)
             {
