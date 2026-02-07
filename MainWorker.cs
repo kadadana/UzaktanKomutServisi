@@ -4,46 +4,91 @@ using System.Text;
 using UzaktanKomutServisi.Models;
 using System.Management;
 using System.Runtime.InteropServices;
+using Microsoft.AspNetCore.SignalR.Client;
 
 namespace UzaktanKomutServisi;
 
 public class Worker : BackgroundService
 {
-    private DateTime _lastLogDate = DateTime.MinValue;
     private string? _currentLogFile = null;
-    private string? compName;
+    private DateTime _latestLogDate = DateTime.MinValue;
+
+    private HubConnection _connection;
+    private readonly string _hubUrl;
+    private string? _compName;
     readonly HttpClient _httpClient = new HttpClient();
-    static string programYolu = AppDomain.CurrentDomain.BaseDirectory.ToString();
-    string xmlPath = programYolu + "\\appconfig.xml";
-    string getCommandServerUrl;
-    string updateCommandServerUrl;
+    string xmlPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "appconfig.xml");
 
     public Worker()
     {
-        compName = GetCompName();
-        getCommandServerUrl = ServerFromXml(xmlPath) + "/?compName=" + compName;
-        updateCommandServerUrl = ServerFromXml(xmlPath) + "/?isUpdate=true";
+        _compName = GetCompName();
+        _hubUrl = HubServerFromXml(xmlPath) + "/komutHub";
+        _connection = new HubConnectionBuilder()
+            .WithUrl(_hubUrl)
+            .WithAutomaticReconnect()
+            .Build();
+        _connection.On<KomutModel>("ReceiveCommand", async (komut) =>
+        {
+            Logger($"Yeni komut tetiklendi: {komut.Command}");
+            await ProcessCommand(komut);
+        });
     }
 
     protected override async Task ExecuteAsync(CancellationToken stoppingToken)
     {
+        Logger("Servis baslatildi, bekleyen komutlar kontrol ediliyor...");
+        await GetCommands(ServerFromXml(xmlPath));
+
+        try
+        {
+            await _connection.StartAsync(stoppingToken);
+            Logger("SignalR baglantisi basariyla kuruldu.");
+            await _connection.InvokeAsync("JoinComputerGroup", _compName, stoppingToken);
+        }
+        catch (Exception ex)
+        {
+            Logger($"SignalR baglantisi kurulurken hata: {ex.Message}\n" +
+            $"Hub adres: {_hubUrl}");
+            System.Console.WriteLine("Hub adresi: " + _hubUrl);
+        }
+
+
         while (!stoppingToken.IsCancellationRequested)
         {
+            if (_connection.State == HubConnectionState.Disconnected)
+            {
+                Logger("Bağlantı koptu, yeniden deneniyor...");
+            }
 
-            Logger(DateTime.Now + " Servis calisiyor.");
-            if (File.Exists(xmlPath))
-            {
-                await GetCommands(getCommandServerUrl);
-            }
-            else
-            {
-                Logger("Sunucu yolu bulunamadi.");
-            }
-            await Task.Delay(5000, stoppingToken);
+            await Task.Delay(10000, stoppingToken);
+        }
+    }
+    private async Task ProcessCommand(KomutModel komut)
+    {
+        try
+        {
+            string returnOfCmd = WindowsCommands.RunCommand(komut.Command, false);
+
+            Console.WriteLine("KOMUT:\n" + komut.Command);
+            Console.WriteLine("----------------------------------------");
+            Console.WriteLine("OUTPUT:\n" + returnOfCmd);
+
+            komut.Response = returnOfCmd;
+            komut.DateApplied = DateTime.Now.ToString("dd.MM.yyyy HH:mm:ss");
+            komut.IsApplied = "TRUE";
+
+            await UpdateCommand(ServerFromXml(xmlPath), komut);
+        }
+        catch (Exception ex)
+        {
+            Logger($"HATA: {ex.Message}");
+            Logger($"Inner Exception: {ex.InnerException?.Message}");
+            Logger($"Stack Trace: {ex.StackTrace}");
         }
     }
     private async Task GetCommands(string serverUrl)
     {
+        serverUrl = serverUrl + "/" + _compName;
         Logger(serverUrl + " sunucusundan komutlar alinmaya calisiliyor.");
 
         try
@@ -53,38 +98,42 @@ public class Worker : BackgroundService
             if (response.IsSuccessStatusCode)
             {
                 var jsonKomut = await response.Content.ReadAsStringAsync();
-                Logger($"-------------------------------------\n"
-                 + jsonKomut +
-                "\nKomut sunucudan basariyla alindi." +
-                "\n-------------------------------------");
-
-                if (!string.IsNullOrWhiteSpace(jsonKomut) && jsonKomut != "Sirada bekleyen komut yok.")
+                var options = new JsonSerializerOptions
                 {
-                    KomutModel? komutModel = JsonSerializer.Deserialize<KomutModel>(jsonKomut);
-                    if (komutModel != null && !string.IsNullOrWhiteSpace(komutModel.Command))
-                    {
-                        string returnOfCmd = WindowsCommands.RunCommand(komutModel.Command, false);
-                        komutModel.Response = returnOfCmd;
-                        System.Console.WriteLine("KOMUT:\n" + komutModel.Command);
-                        System.Console.WriteLine("----------------------------------------");
-                        System.Console.WriteLine("OUTPUT:\n" + returnOfCmd);
-                        komutModel.DateApplied = DateTime.Now.ToString();
-                        komutModel.IsApplied = "TRUE";
-                        await UpdateCommand(updateCommandServerUrl, komutModel);
-                    }
-                    else
-                    {
-                        Logger("Gecersiz veya bos komut.");
-                        return;
-                    }
+                    PropertyNameCaseInsensitive = true
+                };
 
-                }
-                else
+                List<KomutModel>? komutList = JsonSerializer.Deserialize<List<KomutModel>>(jsonKomut, options);
+
+                if (komutList == null || komutList.Count == 0)
                 {
-                    Logger(jsonKomut);
+                    Logger("Komut listesi bos.");
                     return;
                 }
 
+                var komutModel = komutList
+                    .FirstOrDefault(k => string.IsNullOrWhiteSpace(k.IsApplied)
+                                         || k.IsApplied.ToUpper() != "TRUE");
+
+                if (komutModel == null)
+                {
+                    Logger("Uygulanacak komut bulunamadi.");
+                    return;
+                }
+                foreach (var k in komutList)
+                {
+                    string returnOfCmd = WindowsCommands.RunCommand(k.Command, false);
+                    k.Response = returnOfCmd;
+
+                    Console.WriteLine("KOMUT:\n" + k.Command);
+                    Console.WriteLine("----------------------------------------");
+                    Console.WriteLine("OUTPUT:\n" + returnOfCmd);
+
+                    k.DateApplied = DateTime.Now.ToString("dd.MM.yyyy HH:mm:ss");
+                    k.IsApplied = "TRUE";
+
+                    await UpdateCommand(ServerFromXml(xmlPath), k);
+                }
 
             }
             else
@@ -128,14 +177,14 @@ public class Worker : BackgroundService
     {
         var today = DateTime.Now.Date;
 
-        if (_lastLogDate != today)
+        if (_latestLogDate != today)
         {
             string logDir = AppDomain.CurrentDomain.BaseDirectory + "\\Logs";
             Directory.CreateDirectory(logDir);
 
             _currentLogFile = Path.Combine(logDir, $"log_{today:yyyy-MM-dd}.txt");
 
-            _lastLogDate = today;
+            _latestLogDate = today;
 
         }
         File.AppendAllText(_currentLogFile!, $"{DateTime.Now:HH:mm:ss} {message}{Environment.NewLine}");
@@ -146,7 +195,16 @@ public class Worker : BackgroundService
         XmlDocument xmlDoc = new XmlDocument();
         xmlDoc.Load(xmlFilePath);
 
-        XmlNode? node = xmlDoc.SelectSingleNode("/config/serverIp");
+        XmlNode? node = xmlDoc.SelectSingleNode("/config/serverUrl");
+
+        return node?.InnerText.Trim() ?? "Bulunamadi";
+    }
+    private static string HubServerFromXml(string xmlFilePath)
+    {
+        XmlDocument xmlDoc = new XmlDocument();
+        xmlDoc.Load(xmlFilePath);
+
+        XmlNode? node = xmlDoc.SelectSingleNode("/config/hubUrl");
 
         return node?.InnerText.Trim() ?? "Bulunamadi";
     }
