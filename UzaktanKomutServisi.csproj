@@ -6,11 +6,21 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>dotnet-UzaktanKomutServisi-270593b5-2d5a-44ac-806f-ef99ce13db8f</UserSecretsId>
     <ApplicationManifest>app.manifest</ApplicationManifest>
+    <Version>1.0.2</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Authors>kadadana</Authors>
+    <Description>Uzaktan Komut Çalıştırma Servisi</Description>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>true</SelfContained>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.SignalR.Client" Version="10.0.2" />
-    <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.6" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.5" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="10.0.5" />
     <PackageReference Include="System.Management" Version="9.0.6" />
   </ItemGroup>
 </Project>

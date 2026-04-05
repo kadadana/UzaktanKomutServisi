@@ -5,64 +5,96 @@ using UzaktanKomutServisi.Models;
 using System.Management;
 using System.Runtime.InteropServices;
 using Microsoft.AspNetCore.SignalR.Client;
-
+using UzaktanKomutServisi.Helpers;
+using System.Timers;
 namespace UzaktanKomutServisi;
 
 public class Worker : BackgroundService
 {
-    private string? _currentLogFile = null;
-    private DateTime _latestLogDate = DateTime.MinValue;
-
+    UpdateWorker _updateWorker;
+    System.Timers.Timer updateTimer = new System.Timers.Timer();
+    Logger logger = new Logger();
     private HubConnection _connection;
-    private readonly string _hubUrl;
+    private readonly string _hubUrl = "http://192.168.1.210:5105/commandHub";
+    private readonly string _serverUrl = "http://192.168.1.210:5105/api/command";
     private string? _compName;
     readonly HttpClient _httpClient = new HttpClient();
-    string xmlPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "appconfig.xml");
 
     public Worker()
     {
+        _updateWorker = new UpdateWorker();
+
         _compName = GetCompName();
-        _hubUrl = HubServerFromXml(xmlPath) + "/komutHub";
+
         _connection = new HubConnectionBuilder()
             .WithUrl(_hubUrl)
             .WithAutomaticReconnect()
             .Build();
         _connection.On<KomutModel>("ReceiveCommand", async (komut) =>
         {
-            Logger($"Yeni komut tetiklendi: {komut.Command}");
+            logger.logWithMessage($"Yeni komut tetiklendi: {komut.Command}");
             await ProcessCommand(komut);
         });
     }
 
     protected override async Task ExecuteAsync(CancellationToken stoppingToken)
     {
-        Logger("Servis baslatildi, bekleyen komutlar kontrol ediliyor...");
-        await GetCommands(ServerFromXml(xmlPath));
+        logger.logWithMessage("Servis baslatildi.");
+
+        updateTimer.Interval = 1000 * 60 * 60;
+        updateTimer.Elapsed += UpdateTimerElapsed;
+        updateTimer.Start();
+
+        logger.logWithMessage("Bekleyen komutlar kontrol ediliyor...");
+        await GetCommands(_serverUrl);
 
         try
         {
             await _connection.StartAsync(stoppingToken);
-            Logger("SignalR baglantisi basariyla kuruldu.");
+            logger.logWithMessage("SignalR baglantisi basariyla kuruldu.");
             await _connection.InvokeAsync("JoinComputerGroup", _compName, stoppingToken);
         }
         catch (Exception ex)
         {
-            Logger($"SignalR baglantisi kurulurken hata: {ex.Message}\n" +
+            logger.logWithMessage($"SignalR baglantisi kurulurken hata: {ex.Message}\n" +
             $"Hub adres: {_hubUrl}");
             System.Console.WriteLine("Hub adresi: " + _hubUrl);
         }
 
 
+        bool isDisconnectedLogged = false;
         while (!stoppingToken.IsCancellationRequested)
         {
             if (_connection.State == HubConnectionState.Disconnected)
             {
-                Logger("Bağlantı koptu, yeniden deneniyor...");
+                if (!isDisconnectedLogged)
+                {
+                    logger.logWithMessage("Bağlantı koptu, SignalR otomatik yeniden bağlanmayı deneyecek...");
+                    isDisconnectedLogged = true;
+                }
             }
-
+            else
+            {
+                isDisconnectedLogged = false;
+            }
             await Task.Delay(10000, stoppingToken);
         }
     }
+    private void UpdateTimerElapsed(object? sender, ElapsedEventArgs e)
+    {
+        _ = Task.Run(async () =>
+        {
+            try
+            {
+                await _updateWorker.CheckUpdateSilently();
+            }
+            catch (Exception ex)
+            {
+                logger.logWithMessage($"Güncelleme kontrolü başarısız: {ex.Message}");
+            }
+        });
+    }
+
     private async Task ProcessCommand(KomutModel komut)
     {
         try
@@ -77,19 +109,19 @@ public class Worker : BackgroundService
             komut.DateApplied = DateTime.Now.ToString("dd.MM.yyyy HH:mm:ss");
             komut.IsApplied = "TRUE";
 
-            await UpdateCommand(ServerFromXml(xmlPath), komut);
+            await UpdateCommand(_serverUrl, komut);
         }
         catch (Exception ex)
         {
-            Logger($"HATA: {ex.Message}");
-            Logger($"Inner Exception: {ex.InnerException?.Message}");
-            Logger($"Stack Trace: {ex.StackTrace}");
+            logger.logWithMessage($"HATA: {ex.Message}");
+            logger.logWithMessage($"Inner Exception: {ex.InnerException?.Message}");
+            logger.logWithMessage($"Stack Trace: {ex.StackTrace}");
         }
     }
     private async Task GetCommands(string serverUrl)
     {
         serverUrl = serverUrl + "/" + _compName;
-        Logger(serverUrl + " sunucusundan komutlar alinmaya calisiliyor.");
+        logger.logWithMessage(serverUrl + " sunucusundan komutlar alinmaya calisiliyor.");
 
         try
         {
@@ -107,7 +139,7 @@ public class Worker : BackgroundService
 
                 if (komutList == null || komutList.Count == 0)
                 {
-                    Logger("Komut listesi bos.");
+                    logger.logWithMessage("Komut listesi bos.");
                     return;
                 }
 
@@ -117,7 +149,7 @@ public class Worker : BackgroundService
 
                 if (komutModel == null)
                 {
-                    Logger("Uygulanacak komut bulunamadi.");
+                    logger.logWithMessage("Uygulanacak komut bulunamadi.");
                     return;
                 }
                 foreach (var k in komutList)
@@ -132,20 +164,20 @@ public class Worker : BackgroundService
                     k.DateApplied = DateTime.Now.ToString("dd.MM.yyyy HH:mm:ss");
                     k.IsApplied = "TRUE";
 
-                    await UpdateCommand(ServerFromXml(xmlPath), k);
+                    await UpdateCommand(_serverUrl, k);
                 }
 
             }
             else
             {
-                Logger($"Komut alinamadi. Hata kodu: {response.StatusCode}");
+                logger.logWithMessage($"Komut alinamadi. Hata kodu: {response.StatusCode}");
             }
         }
         catch (Exception ex)
         {
-            Logger($"HATA: {ex.Message}");
-            Logger($"Inner Exception: {ex.InnerException?.Message}");
-            Logger($"Stack Trace: {ex.StackTrace}");
+            logger.logWithMessage($"HATA: {ex.Message}");
+            logger.logWithMessage($"Inner Exception: {ex.InnerException?.Message}");
+            logger.logWithMessage($"Stack Trace: {ex.StackTrace}");
         }
     }
     private async Task UpdateCommand(string serverUrl, KomutModel komutModel)
@@ -155,7 +187,7 @@ public class Worker : BackgroundService
         {
             var jsonKomut = komutModel.ToJson();
             var content = new StringContent(jsonKomut, Encoding.UTF8, "application/json");
-            Logger($"-------------------------------------\n"
+            logger.logWithMessage($"-------------------------------------\n"
                 + jsonKomut +
                 "\nKomut guncellenmeye calisiliyor." +
                 "\n-------------------------------------");
@@ -163,51 +195,17 @@ public class Worker : BackgroundService
 
             if (response.IsSuccessStatusCode)
             {
-                Logger("Komut basariyla guncellendi.");
+                logger.logWithMessage("Komut basariyla guncellendi.");
             }
         }
         catch (Exception ex)
         {
-            Logger($"HATA: {ex.Message}");
-            Logger($"Inner Exception: {ex.InnerException?.Message}");
-            Logger($"Stack Trace: {ex.StackTrace}");
+            logger.logWithMessage($"HATA: {ex.Message}");
+            logger.logWithMessage($"Inner Exception: {ex.InnerException?.Message}");
+            logger.logWithMessage($"Stack Trace: {ex.StackTrace}");
         }
     }
-    public void Logger(string message)
-    {
-        var today = DateTime.Now.Date;
 
-        if (_latestLogDate != today)
-        {
-            string logDir = AppDomain.CurrentDomain.BaseDirectory + "\\Logs";
-            Directory.CreateDirectory(logDir);
-
-            _currentLogFile = Path.Combine(logDir, $"log_{today:yyyy-MM-dd}.txt");
-
-            _latestLogDate = today;
-
-        }
-        File.AppendAllText(_currentLogFile!, $"{DateTime.Now:HH:mm:ss} {message}{Environment.NewLine}");
-
-    }
-    private static string ServerFromXml(string xmlFilePath)
-    {
-        XmlDocument xmlDoc = new XmlDocument();
-        xmlDoc.Load(xmlFilePath);
-
-        XmlNode? node = xmlDoc.SelectSingleNode("/config/serverUrl");
-
-        return node?.InnerText.Trim() ?? "Bulunamadi";
-    }
-    private static string HubServerFromXml(string xmlFilePath)
-    {
-        XmlDocument xmlDoc = new XmlDocument();
-        xmlDoc.Load(xmlFilePath);
-
-        XmlNode? node = xmlDoc.SelectSingleNode("/config/hubUrl");
-
-        return node?.InnerText.Trim() ?? "Bulunamadi";
-    }
     public string? GetCompName()
     {
         if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows))
@@ -224,7 +222,7 @@ public class Worker : BackgroundService
             }
             catch (Exception ex)
             {
-                Logger($"Hata: {ex.Message}");
+                logger.logWithMessage($"Hata: {ex.Message}");
                 return "HATA";
             }
         }
