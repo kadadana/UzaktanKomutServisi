@@ -39,6 +39,7 @@ public class Worker : BackgroundService
 
     protected override async Task ExecuteAsync(CancellationToken stoppingToken)
     {
+        _ = Task.Run(async () => await _updateWorker.CheckUpdateSilently());
         logger.logWithMessage("Servis baslatildi.");
 
         updateTimer.Interval = 1000 * 60 * 60;
@@ -127,8 +128,15 @@ public class Worker : BackgroundService
         {
             var response = await _httpClient.GetAsync(serverUrl);
 
+            if (response.StatusCode == System.Net.HttpStatusCode.NoContent)
+            {
+                Console.WriteLine($"{DateTime.Now:HH:mm:ss} Sırada bekleyen komut yok.");
+                return;
+            }
+
             if (response.IsSuccessStatusCode)
             {
+
                 var jsonKomut = await response.Content.ReadAsStringAsync();
                 var options = new JsonSerializerOptions
                 {
