@@ -10,6 +10,12 @@ public class UpdateWorker
     private static readonly string ServiceName = "UzaktanKomutServisi";
     public async Task CheckUpdateSilently()
     {
+        string servicePath = AppDomain.CurrentDomain.BaseDirectory;
+        string zipPath = Path.Combine(servicePath, "update.zip");
+        string extractPath = Path.Combine(servicePath, "temp_update");
+        
+        if (File.Exists(zipPath)) File.Delete(zipPath);
+        if (Directory.Exists(extractPath)) Directory.Delete(extractPath, true);
         try
         {
             using (HttpClient client = new HttpClient())
@@ -29,9 +35,9 @@ public class UpdateWorker
                 {
                     logger.logWithMessage("Yeni güncelleme bulundu! İşlem başlıyor...");
 
-                    string servicePath = AppDomain.CurrentDomain.BaseDirectory;
-                    string zipPath = Path.Combine(servicePath, "update.zip");
-                    string extractPath = Path.Combine(servicePath, "temp_update");
+                    servicePath = AppDomain.CurrentDomain.BaseDirectory;
+                    zipPath = Path.Combine(servicePath, "update.zip");
+                    extractPath = Path.Combine(servicePath, "temp_update");
 
                     byte[] zipBytes = await client.GetByteArrayAsync(DownloadUrl);
                     File.WriteAllBytes(zipPath, zipBytes);
@@ -60,7 +66,10 @@ public class UpdateWorker
                      $"taskkill /f /im UzaktanKomutServisi.exe & " +
                      $"timeout /t 3 /nobreak & " +
                      $"xcopy /y /s /e \"{extractPath}\\*\" \"{servicePath}\" & " +
-                     $"net start {ServiceName}\"";
+                     $"net start {ServiceName} & " +
+                     $"timeout /t 2 /nobreak & " +
+                     $"del /q \"{zipPath}\" & " +
+                     $"rd /s /q \"{extractPath}\"\"";
 
         ProcessStartInfo psi = new ProcessStartInfo("cmd.exe", cmdCommands)
         {
