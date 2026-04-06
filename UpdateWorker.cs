@@ -13,7 +13,7 @@ public class UpdateWorker
         string servicePath = AppDomain.CurrentDomain.BaseDirectory;
         string zipPath = Path.Combine(servicePath, "update.zip");
         string extractPath = Path.Combine(servicePath, "temp_update");
-        
+
         if (File.Exists(zipPath)) File.Delete(zipPath);
         if (Directory.Exists(extractPath)) Directory.Delete(extractPath, true);
         try
@@ -65,9 +65,8 @@ public class UpdateWorker
         string cmdCommands = $"/c \"net stop {ServiceName} & " +
                      $"taskkill /f /im UzaktanKomutServisi.exe & " +
                      $"timeout /t 3 /nobreak & " +
-                     $"xcopy /y /s /e \"{extractPath}\\*\" \"{servicePath}\" & " +
+                     $"robocopy \"{extractPath}\" \"{servicePath}\" /E /IS /IT /XD Logs & " +
                      $"net start {ServiceName} & " +
-                     $"timeout /t 2 /nobreak & " +
                      $"del /q \"{zipPath}\" & " +
                      $"rd /s /q \"{extractPath}\"\"";
 
